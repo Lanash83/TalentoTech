@@ -1,7 +1,7 @@
 //Punto 1
 
-/*let nombre = "Laura";
-let edad = 22;
+/*let nombre = "Nazly";
+let edad = 40;
 
 document.write("Tu nombre es: " + nombre + "y tú edad es: " + edad + "<br>");
 */
@@ -71,8 +71,8 @@ alert("Negación de falso es igual a: " + (!y));
 */
 
 //Punto 9
-let nombre = "Laura";
-let apellido = "Rodriguez";
+let nombre = "Nazly";
+let apellido = "Uzcategui";
 
 alert("Nombre completo: " + nombre + " " + apellido);
 
